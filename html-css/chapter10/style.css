@@ -223,3 +223,41 @@ footer {
 .footer-text {
   color:#fff;
 }
+
+//*.social {
+  color:black;
+}
+
+@media screen and (max-width:1024px) {
+  .social i {
+    color:green;
+  }
+}
+
+@media screen and (max-width:768px) {
+  .social i {
+    color:red;
+  }
+}
+
+@media screed and (max-width:425px) {
+  .social i {
+    color:blue;
+  }
+} */
+
+@media screen and (max-width:425px) {
+  header {
+    width:100%;
+  }
+
+  .nav-list {
+    
+  }
+
+  footer {
+    width:100%;
+  }
+}
+
+
